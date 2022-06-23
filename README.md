@@ -29,12 +29,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Preguntas
 
 - ¿Como determinas si una cadena de texto es un palíndromo?
-(Un palíndromo es una palabra que al leerla al revés dice lo mismo. Ej. “Reconocer”)
-** Tomo la cadena de texto, en este caso es "Reconocer".
+(Un palíndromo es una palabra que al leerla al revés dice lo mismo. Ej. “Reconocer”).
 
-** Con la cadena de texto actual hago un recorrido de manera inversa, es decir, recorro apartir de la ultima letra, tomo esta letra y voy generando una nueva cadena de texto.
+    -- Tomo la cadena de texto, en este caso es "Reconocer".
 
-** Una vez terminado el recorrido comparo mi nueva cadena con la primera y si ambas son la misma palabra entonces decimos que es un "palindromo" en otro caso no lo es.
+    -- Con la cadena de texto actual hago un recorrido de manera inversa, es decir, recorro apartir de la ultima letra, tomo esta letra y voy generando una nueva cadena de texto.
+
+    -- Una vez terminado el recorrido comparo mi nueva cadena con la primera y si ambas son la misma palabra entonces decimos que es un "palindromo" en otro caso no lo es.
 
 - Dado un arreglo de enteros, ¿Como determinas cual es el segundo más grande de todos esos enteros?
 ** Identifico si hay numeros repetidos en dado caso de que exitan, los elimino para que asi solo tenga números unicos
