@@ -57,4 +57,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
     - Lo segundo seria recorrer las cadenas de textos e ir tomando nota o almacenando de alguna manera la cantidad de veces que cada letra o caracter se repite en cada cadena de texto
 
-    - Sabiendo entonces cuentas veces se repite cada letra, entonces analizamos el número de veces que se repite cada letra de tal forma que si encontramos al menos una letra que tiene mas o menos veces peticiones que la otra entonces sabemos que no es un "anagrama"
+    - Sabiendo entonces cuentas veces se repite cada letra, entonces analizamos el número de veces que se repite cada letra de tal forma que si encontramos al menos una letra que tiene mas o menos veces reticiones que la otra entonces sabemos que no es un "anagrama"
