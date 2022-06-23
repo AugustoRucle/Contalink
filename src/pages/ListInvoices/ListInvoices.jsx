@@ -47,7 +47,7 @@ function ListInvoices() {
 
             notification.open({
                 type: 'error',
-                message: 'Tuvimos un problema al obtener las invoces',
+                message: 'Tuvimos un problema al obtener las facturas',
             });
 
             setInvoices([]);
