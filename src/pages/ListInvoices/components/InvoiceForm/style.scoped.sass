@@ -1,0 +1,36 @@
+.invoice-form
+    display: flex
+    justify-content: center
+
+    > form
+        display: flex
+        align-items: end
+
+    .input-date
+        width: 200px
+        height: 77px
+
+    .submit
+        width: auto
+        margin-bottom: 16px
+
+@media only screen and (max-width: 800px)
+    .invoice-form
+        display: flex
+        justify-content: center
+
+@media only screen and (max-width: 800px)
+    .invoice-form
+        flex-direction: column
+
+        > form
+            flex-direction: column
+
+        .input-date
+            margin-bottom: 10px
+            width: 100%
+
+        .submit
+            width: 100%
+            display: flex
+            justify-content: end
