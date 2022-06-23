@@ -38,7 +38,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
     - Una vez terminado el recorrido comparo mi nueva cadena con la primera y si ambas son la misma palabra entonces decimos que es un "palindromo" en otro caso no lo es.
 
 - Dado un arreglo de enteros, ¿Como determinas cual es el segundo más grande de todos esos enteros?
-    - Identifico si hay numeros repetidos en dado caso de que exitan, los elimino para que asi solo tenga números unicos
+    - Identifico si hay numeros repetidos en dado caso de que existán, los elimino para que asi solo tenga números unicos
 
     - Despues comparo el primer número del arreglo con un valor, en este caso "0" (se tomando un número más inferior a cualquier otra en el arreglo)
         - Si ese número es mayor entonces tomo ese número como el más grande y el anterior valor de mi número mayor como el 
